@@ -1,1 +1,1 @@
-# Colour_Picker
+Select and drag the slider to adjust colour according to your choice
